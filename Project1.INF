@@ -7,7 +7,7 @@ count=1
 
 [file1]
 url=https://github.com/AymenStudios/VCLUpdate/raw/refs/heads/main/ProjectUpdater.exe_NEW
-newversion=1.1.0.0
+newversion=1.2.0.0
 localversion=ProjectUpdater.exe
 targetdir={app}
 
