@@ -7,7 +7,7 @@ time=0:34
 count=1
 
 [file1]
-url=C:\Users\Aymen\Documents\Embarcadero\Studio\Projects\Pupdater\Win32\Release\Updates/ProjectUpdater.CAB
+url=https://raw.githubusercontent.com/AymenStudios/VCLUpdate/refs/heads/main/ProjectUpdater.CAB
 newversion=1.1.0.0
 localversion=ProjectUpdater.exe
 compressed=0
