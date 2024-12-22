@@ -1,18 +1,20 @@
 ﻿[update]
-newversion=1.1.0.0
+date=23/12/2024
 localversion=ProjectUpdater.exe
+time=0:34
 
 [files]
 count=1
 
 [file1]
-url=https://github.com/AymenStudios/VCLUpdate/raw/refs/heads/main/ProjectUpdater.exe_NEW
+url=C:\Users\Aymen\Documents\Embarcadero\Studio\Projects\Pupdater\Win32\Release\Updates/ProjectUpdater.CAB
 newversion=1.1.0.0
 localversion=ProjectUpdater.exe
-targetdir={app}
+compressed=0
+filesize=5566349
 
 [application]
 appupdate=1
 appname=ProjectUpdater.exe
-appcomps=ProjectUpdater.exe_NEW 
+appcomps=ProjectUpdater.CAB
 
