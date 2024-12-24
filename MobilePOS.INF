@@ -6,7 +6,7 @@ localversion=MobilePOS.exe
 count=1
 
 [file1]
-url=C:\Users\Aymen\Desktop\PhonePOS_V2\Update/Project1.exe_NEW
+url=C:\Users\Aymen\Desktop\PhonePOS_V2\Update/MobilePOS.exe_NEW
 newversion=1.8.0.0
 localversion=MobilePOS.exe
 targetdir={app}
