@@ -1,5 +1,5 @@
 ﻿[update]
-newversion=1.8.1.0
+newversion=1.8.2.0
 localversion=MobilePOS.exe
 
 [files]
@@ -7,7 +7,7 @@ count=1
 
 [file1]
 url=https://github.com/AymenStudios/VCLUpdate/raw/refs/heads/main/MobilePOS.exe_NEW
-newversion=1.8.1.0
+newversion=1.8.2.0
 localversion=MobilePOS.exe
 targetdir={app}
 
